@@ -1,4 +1,4 @@
-## Hi there 👋
+## This is the technical area to share updates on the development of Kami4Fund charitable platform. Stay Tuned!
 
 <!--
 **Kami4Fund/Kami4Fund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
