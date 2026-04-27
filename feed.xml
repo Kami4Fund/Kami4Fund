@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Kami4Fund</title>
+    <link href="https://github.com/kami4fund/kami4fund.git/feed.xml" rel="self" />
+    <link href="https://github.com/kami4fund/kami4fund.git" />
+    <updated>2026-04-26T16:04:26-07:00</updated>
+    <author>
+        <name>Decentralized</name>
+    </author>
+    <id>https://github.com/kami4fund/kami4fund.git</id>
+
+    <entry>
+        <title>Welcome to Kami4Fund</title>
+        <author>
+            <name>Decentralized</name>
+        </author>
+        <link href="https://github.com/kami4fund/kami4fund.git/welcome-to-kami4fund.html"/>
+        <id>https://github.com/kami4fund/kami4fund.git/welcome-to-kami4fund.html</id>
+
+        <updated>2026-04-21T13:41:30-07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Funding humanitarian works with love and accountability. Evidence unlocks. No fraud.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 class="align-center">Funding humanitarian works with love and accountability. Evidence unlocks. No fraud.</h2>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

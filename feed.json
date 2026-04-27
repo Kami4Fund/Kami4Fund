@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Kami4Fund",
+    "description": "",
+    "home_page_url": "https://github.com/kami4fund/kami4fund.git",
+    "feed_url": "https://github.com/kami4fund/kami4fund.git/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Decentralized"
+    },
+    "items": [
+        {
+            "id": "https://github.com/kami4fund/kami4fund.git/welcome-to-kami4fund.html",
+            "url": "https://github.com/kami4fund/kami4fund.git/welcome-to-kami4fund.html",
+            "title": "Welcome to Kami4Fund",
+            "summary": "Funding humanitarian works with love and accountability. Evidence unlocks. No fraud.",
+            "content_html": "<h2 class=\"align-center\">Funding humanitarian works with love and accountability. Evidence unlocks. No fraud.</h2>\n<p> </p>\n<p> </p>",
+            "author": {
+                "name": "Decentralized"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-04-21T13:41:30-07:00",
+            "date_modified": "2026-04-26T16:04:26-07:00"
+        }
+    ]
+}
